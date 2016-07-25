@@ -11,8 +11,10 @@ Link: http://www.wikihow.com/Install-Mesa-%28OpenGL%29-on-Linux-Mint
 
 for windows users:
 find video on youtube on how to install openGL.
-after installing go to 3Dhouse.cpp file. uncomment this line-> #include <windows.h>
+after installing go to 3Dhouse.cpp file. uncomment this line-> "#include <windows.h>"
 hopefully it will get you working with it.
 
 
+feel free to ask any question.
 Happy Coding!
+
